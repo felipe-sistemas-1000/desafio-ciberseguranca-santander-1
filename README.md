@@ -19,7 +19,7 @@
 ![This is an alt text.](/images/DVWA varias crdenciais.png "This is a sample image.")
 
 #### Foi feito o login com credenciais encontradas:
-![This is an alt text.](/images/DVWA acessado.png "This is a sample image.")
+![This is an alt text.](/images/DVWA%20acessado.png "This is a sample image.")
 
 ## Conclusão:
 ### Dadas as várias falhas de segurança encontradas, precisaria ser feito um trabalho junto à 'empresa alvo' para mitigar esses riscos. Algumas medidas à serem tomadas:
