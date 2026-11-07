@@ -13,10 +13,10 @@
 ![This is an alt text.](/images/NMAP.png "This is a sample image.")
 
 #### Medusa encontrou credencial válida no FTP e foi feito login nele com sucesso:
-![This is an alt text.](/images/Medusa achou FTP aceitou.png "This is a sample image.")
+![This is an alt text.](/images/Medusa%20achou%20FTP%20aceitou.png "This is a sample image.")
 
 #### Medusa encontrou credenciais válidas no formulário DVWA:
-![This is an alt text.](/images/DVWA varias crdenciais.png "This is a sample image.")
+![This is an alt text.](/images/DVWA%20varias%20crdenciais.png "This is a sample image.")
 
 #### Foi feito o login com credenciais encontradas:
 ![This is an alt text.](/images/DVWA%20acessado.png "This is a sample image.")
